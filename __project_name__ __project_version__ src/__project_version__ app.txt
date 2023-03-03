@@ -1,0 +1,1 @@
+Here I access __project_name__'s src files , version no. __project_version__
